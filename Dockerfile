@@ -6,4 +6,4 @@ COPY target/image-gallery-0.0.1-SNAPSHOT.jar imagegallery.jar
 
 EXPOSE 8080
 
-ENTRYPOINT ["java","-jar","imaggallery.jar"]
+ENTRYPOINT ["java","-jar","imagegallery.jar"]
